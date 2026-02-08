@@ -1,3 +1,3 @@
 # shivadarshdemo
 This is my github repositary just to properly understand how it works
-author: U Shivadarsh
+author: U Shivadarsh Rajagiri
